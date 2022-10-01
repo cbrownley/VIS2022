@@ -1,6 +1,6 @@
 # VIS 2022 [Visualization in Bayesian Workflow](http://ieeevis.org/year/2022/info/tutorials#VBW) Tutorial
 
-This repository contains all of the Python notebooks and files associated with the Visualization in Bayesian Workflow tutorial.
+This repository contains the Colab notebooks (`R` code), data files, and [slides](https://docs.google.com/presentation/d/1h94rymI7y2fjag150tK0w7SThDy7jedZ4TlxBideag0/edit?usp=sharing) associated with the Visualization in Bayesian Workflow tutorial.
 
 ## to open notebooks in Google Colab
 
