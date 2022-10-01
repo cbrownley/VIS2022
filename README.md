@@ -34,7 +34,7 @@ This repository contains all of the Python notebooks and files associated with t
 
 1. Go to: https://github.com/cbrownley/VIS2022.git
 
-2. Click 'Clone or download' and then 'Download ZIP' in the right side of the page
+2. Click the green 'Code' button and then 'Download ZIP' in the upper right side of the page
 
 3. Click on the zipped folder to open it in File Explorer
 
